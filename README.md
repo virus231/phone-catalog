@@ -2,7 +2,7 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Download the example (https://github.com/mui-org/material-ui):
 
 <!-- #default-branch-switch -->
 
@@ -18,11 +18,9 @@ npm install
 npm run dev
 ```
 
-or:
+# Design
+[Figma](https://www.figma.com/file/fXJ6zPfztEVlKi3pF6vbhv/Phone-catalog-redesign-(Copy)?node-id=0%3A1)
 
-<!-- #default-branch-switch -->
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/nextjs-with-typescript)
 
 ## The idea behind the example
 
